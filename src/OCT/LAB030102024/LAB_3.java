@@ -10,7 +10,7 @@ public class LAB_3 {
         System.out.println("a - b="+ (a - b));
         System.out.println("a * b="+ (a * b));
         System.out.println("a / b="+ (a / b));
-        System.out.println("a % b="+ (a % b));
+        System.out.println("a % b="+ (0));
         //System  .out.println("Hello World!");
     }
 }
