@@ -1,4 +1,4 @@
-package OCT.LAB040102024;
+package OCT.LAB04102024;
 
 public class LAB_1 {
     public static void main(String[] args) {

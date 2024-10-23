@@ -1,4 +1,4 @@
-package OCT.LAB030102024;
+package OCT.LAB03102024;
 
 // build calculator with basics
 public class LAB_3 {

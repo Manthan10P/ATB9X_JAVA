@@ -1,4 +1,4 @@
-package OCT.LAB030102024;
+package OCT.LAB03102024;
 // sum of product og 10
 public class LAB_1 {
         public static void main(String[] args) {
