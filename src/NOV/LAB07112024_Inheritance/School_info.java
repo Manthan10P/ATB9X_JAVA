@@ -1,4 +1,4 @@
-package NOV.LAB07112024;
+package NOV.LAB07112024_Inheritance;
 import java.util.Scanner;
 public class School_info {
 

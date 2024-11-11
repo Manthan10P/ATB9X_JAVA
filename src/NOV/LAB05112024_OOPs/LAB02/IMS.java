@@ -1,4 +1,4 @@
-package NOV.LAB05112024;
+package NOV.LAB05112024_OOPs.LAB02;
 
 public class IMS {
     static String Name;

@@ -1,4 +1,4 @@
-package NOV.LAB05112024;
+package NOV.LAB05112024_OOPs.LAB03;
 
 public class Student {
     static int id;
